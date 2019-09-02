@@ -42,24 +42,24 @@ using the cloud.
 
 Creating governing bodies (or realigning existing ones) in order to achieve
 speed and agility does seem counterintuitive at first blush. And, in fairness,
-the addition of more governance will not guarantee the desired results. What is
+the addition of governance will not guarantee the desired results. What is
 described in these documents is a framework for changing the way enterprise IT
 does business. The change is both organization and just as critically
 *cultural*.
 
 When we look at enterprises who have successfully pivoted to the cloud, we find
-that they typically address the topic of governance early to ensure the
-effective use of the cloud within the enterprise. They have a general approach
-of building and securing their cloud before anyone can use it. A common analogy
-used among these organizations is “building the house” before letting anyone
-occupy it.
+that they typically address the topics of governance and culture early to ensure
+the effective use of the cloud within the enterprise. They have a general
+approach of building and securing their cloud before anyone can use it. A common
+analogy used among these organizations is “building the house” before letting
+anyone occupy it.
 
 To follow the analogy of a house being built (where a well-governed cloud is the
 outcome) consider what governing bodies are involved. In America, most
-communities have city planners, building departments, permitting, inspections
-and code enforcement requirements (a prospective home builder might consider
-this too much bureaucracy!). These groups may not operate efficiently and
-quickly in every community, but they have brought us safer and more standardized
+communities have city planners, building departments, permitting, inspection and
+code enforcement requirements (a prospective home builder might consider this
+too much bureaucracy!). These groups may not operate efficiently and quickly in
+every community, but they have brought us safer and more standardized
 structures. When the time comes to replace a door or electrical outlet, the
 relentless drive for standardization and safety mean that replacements can be
 found at any hardware store both locally and across the country.
@@ -67,14 +67,14 @@ found at any hardware store both locally and across the country.
 So too an enterprise’s requirements drive standardization and safety. A business
 unit may want to build an application to fit their needs and the application
 they build may be well-suited to the task and deliver the business value that
-team demands. The question remains: will it be easily maintained, managed and
-governed? The governance described in these documents is designed to help that
+team desires. The question remains: will it be easily maintained, managed and
+governed? The governance described in these documents is designed to help the
 business unit and their developers by supporting specific standards and
 practices and creating pathways to accelerate their deployments.
 
 The prospective home builder, like the application developer may disagree with
-some of the standards that are in place (particularly if no such standards
-existed previously) but they can provide the ability to execute at speed and
+some of the standards that are in place (particularly if few or no standards
+existed previously) but standards provide the ability to execute at speed and
 scale. Knowing that wall studs are placed every 16” on load bearing walls means
 that builders need not concern themselves with these details – especially when
 industry experts and architects have agreed on that standard.
@@ -88,15 +88,15 @@ groups and developers to quickly meeting their own goals.
 If the enterprise scaffold isn’t easy to use or flexible, risks arise. When
 teams find they can’t easily meet their needs using the tools and services
 offered by the enterprise’s IT group, they sometimes go directly to a cloud
-provider – without involving enterprise IT. The practice was so widespread it
-was given the name “Shadow IT” by the industry. Shadow IT is especially common
-in enterprises that have not fully adopted cloud (or adopted it at all). In such
-enterprises, the teams are trying to leverage the enablers that are available to
-them, realize the benefits of cloud and drive self-reliance – all commendable
-and worthy objectives. The shortcomings of Shadow IT are numerous, however. A
-misconfigured setting may expose data, legal and regulatory compliance are in
-jeopardy and, less dramatically, there are inefficiencies since other teams
-can’t benefit from the service.
+provider – without involving enterprise IT. The practice is so widespread it was
+given the name “Shadow IT” by the industry. Shadow IT is especially common in
+enterprises that have not fully adopted cloud (or not adopted it at all). In
+such enterprises, the teams are trying to leverage those enablers that are
+available to them, realize the benefits of cloud and drive self-reliance – all
+commendable and worthy objectives. The shortcomings of Shadow IT are numerous,
+however. A misconfigured setting may expose data, legal and regulatory
+compliance are in jeopardy and, less dramatically, there are inefficiencies
+since other teams can’t benefit from the service.
 
 Contrary to the opinions that led to the rise of Shadow IT, our experience shows
 that foundational governance efforts greatly speed, rather than impede, cloud
@@ -109,32 +109,43 @@ approach to this effort.
 The Cloud Adoption Framework
 ----------------------------
 
-Cloud Adoption Framework (CAF) helps organizations with a simplified cloud
-adoption journey with Microsoft Azure. It contains detailed information to cover
-an end-to-end cloud adoption journey, starting from assessing cloud readiness,
-to defining business and technology strategy. It contains a framework to
-strategize, plan, migrate, and optimize infrastructure for Microsoft Azure.
+Cloud Adoption Framework (CAF) the One Microsoft approach to cloud adoption in
+Azure, consolidating and sharing best practices from Microsoft employees,
+partners, and customers. The framework gives enterprise customers a set of
+tools, guidance, and narratives that help shape technology, business, and people
+strategies for driving desired business outcomes during their adoption effort.
 
-If you haven’t yet read this document, it is strongly encouraged you do so now.
-The AGF approach is predicated on the COM and understanding the context it
+If you haven’t yet reviewed the CAF, it is strongly encouraged you do so now.
+The AGF approach is predicated on the CAF and understanding the context it
 provides is important and valuable.
 
-![](media/79199795796a8fc3a911693a3c1df51b.png)
+![](media/dc42b3f3c9dce421442384f2ccc5b6cb.png)
 
-The COM provides a comprehensive look at how enterprises might plan, migrate,
-and optimize infrastructure in the cloud and focuses on these through three
-strategy lenses, Business, People and Technology. The lion’s share of the
-content is, not surprisingly, focused on the technology strategy. In reading
-through the document you may have felt that the topic of people was somewhat
-brief (2 pages out of the 69 total pages).
+The CAF provides a comprehensive look at how enterprises might plan, migrate,
+and optimize infrastructure in the cloud and focuses on planning, readiness and
+adoption during the journey to cloud as well as governance and management as
+ongoing activities. The lion’s share of the content is, not surprisingly,
+focused on the technology strategies. It details at great length design
+patterns, the pillars of software quality and numerous reference architectures.
+It also describes organizational alignment so that people can enable cloud
+adoption and operations.
 
-The COM describes the creation of a Cloud Strategy Team (CST) consisting of
-business leaders, finance, IT infrastructure, and application groups. These
-teams can help with the cloud analysis and experimentation phase.
+The CAF also describes some teams structures like [Cloud Adoption and
+Governance](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/organization/organization-structures)
+teams as well as a [Cloud Center of
+Excellence](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/organization/cloud-center-excellence).
+As the CAF is a living document this content has developed and continues to be
+enriched with each update. A common request from customers in reviewing this is
+how, exactly should I go about implementing these recommendations and how do I
+create these teams?
 
-The Azure Governance Foundations provides guidance for the next phase in that
-journey. The AGF is here to answer the questions of “what happens after the
-analysis and experimentation are completed? and Where do I go from here?”
+The Azure Governance Foundations provides specific guidance and examples of what
+it takes to create these governing bodies, how they can be staffed, what sample
+charters looks like for teams as well as how teams interact, realize benefits
+and escalate issues. The goal of the AGF is to align the new bodies to the
+enterprises long term objectives and to provide a clear roadmap on doing so. The
+AGF is here to answer the questions of “How do I create these teams?” and “Where
+do I go from here?”.
 
 Executive Summary
 -----------------
@@ -372,67 +383,37 @@ is with limitation this in mind that the AGF was created.
 Knowing that many customers will not reach a one-touch deployment world for some
 time, if ever, the AGF sets customers on the cloud first path, even if they
 won’t make the full journey. Moreover the AGF is designed in a way that will
-minimize the customer’s technical debt if and when they device to take the next
-step on the cloud first journey. Simply put, the AGF and the use of a CCoE will
-help any customer organization “build the house” in a way that does everything
-possible to future-proof them for changes they may want to make at a later date.
+minimize the customer’s technical debt should they decide to take the next step
+on the cloud first journey. Simply put, the AGF can help any customer
+organization “build the house” in a way that does everything possible to
+future-proof them for changes they may want to make at a later date.
 
 Do I need the Azure Governance Foundations?
 -------------------------------------------
 
-Setting up and operationalizing a CCoE with deep focus on foundational aspects
-of platform enablement is not a trivial matter. The goal of the AGF is to help
-customers create a secure and well-governed Azure environment, ready to accept
-workloads The AGF can be undertaken by almost any customer, from those who are
-just beginning their cloud journey to ones who are already deeply invested in
-cloud but want to modernize their IT approach.
+Setting up and operationalizing cloud governing bodies is not a trivial matter.
+The goal of the AGF is to help customers create a secure and well-governed Azure
+environment, ready to deploy workloads The AGF can be undertaken by almost any
+customer, from those who are just beginning their cloud journey to ones who are
+already deeply invested in cloud but want to modernize their IT approach.
 
-While the fullest expression of a CCoE may be an organization that implements a
+While the fullest expression of the AGF may be an organization that implements a
 zero touch, infrastructure as code environment - not all customers are willing
 nor ready to make the full extent of that journey. AGF is designed to formalize
-the creation and to operationalize a CCoE with a focus on platform aspects,
-where immediate gains can be made in terms of governance, security and
-operational efficiency.
-
-The content of the AGF is a pre-requisite before any DevOps-focused CCoE efforts
-can begin. Guidance focused on CCoE Dev-Ops is expected in the future. One of
-the tenants of this offering is to create a CCoE in a way that minimized
-architectural and organizational debt for those customers who continue on to
-take the full journey.
+the creation and to operationalize a cloud governing bodies with a focus on the
+rhythm of business required to properly execute.
 
 This AGF provides a structure for customers to implement, manage, and operate
-their Azure platform. The CCoE uses agile DevOps principles combined with
+their Azure platform. The AGF uses agile DevOps principles combined with
 cloud-native service management and security controls to help drive business
 innovation, increase agility, and reduce time to value within a secure,
 predictable and flexible services delivery and operations management capability.
-The CCoE provides patterns for modern IT structures, actions and governance.
-
-![](media/5c066e1ea93077708f9a02a92d464623.png)
 
 If your organization is looking for an approach that will help them secure
 predictable but flexible cloud, faster adoption of cloud services, reduced time
 to market and a more efficient use of the cloud – the Azure Governance
 Foundation may be a good place to start. The AGF is meant to provide the
-guidance needed to enable the customer’s IT team to realize the value of CCoE
-operations, as well as making IT an integral part of their organization.
+guidance needed to enable the customer realize the full value cloud, as well as
+making IT an integral part of their organization and valued business partner.
 
-### A new state of affairs
-
-This introduction discussed the rise and the allure of Shadow IT and suggests
-some alternate approaches. In closing, imagine the new state of affairs brought
-about by a cloud first approach.
-
-Rather than restricting access to the cloud, organizations can provide more
-access to their business units enabling them to experiment with new technologies
-and bring products to market faster than ever. The IT department becomes a
-partner to the business (rather than an intermediary who acquires equipment) as
-they make using the newest technologies easy *and* secure. This creates a
-virtuous cycle that drives innovation standing as a stark counterpoint to the
-frustrations that drove users to Shadow IT.
-
-Consider this an example of Jevon’s Paradox at work. In simple terms the paradox
-states that technological progress that increases the efficiency with which a
-resource is used tends to increase the rate of consumption of that resource. So
-as an IT department makes the process of acquiring and using new technology more
-efficient (or cheaper in terms of effort or real dollars) the more demand is
-created to use these new services.
+![](media/5c066e1ea93077708f9a02a92d464623.png)

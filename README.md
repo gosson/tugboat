@@ -42,16 +42,17 @@ Is the AGF for me?
 ------------------
 
 The Azure Governance Foundation is for any organization that wants to implement
-a tested approach to creating a well-managed Azure environment. AGF is best
-thought of as an extension to the [Cloud Adoption Framework
+a tested approach to creating governing teams that facilitate a well-managed
+Azure environment. AGF is best thought of as an extension to the [Cloud Adoption
+Framework
 (CAF)](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/)
 which is framework providing enterprise customers a set of tools, guidance, and
 narratives that help shape technology, business, and people strategies for
 driving desired business outcomes during their adoption effort. If you have not
 read the Cloud Adoption Framework, you should begin there and then return to the
 AGF if you need deeper guidance on the people and process aspects of this
-approach – which is to say, how to create business structures to support the
-journey to cloud.
+approach – which is to say, how to create business structures which will support
+your journey to cloud.
 
 The AGF is designed for customers who want to transform their IT organizations
 into strong partners with their businesses. New cloud customers who aren’t quite
@@ -71,11 +72,9 @@ well-managed environment are not the domain of any one cloud provider.
 
 That said, aspects of the approach described here will be tactical and specific
 to Azure. The use of Azure Policies, Management Groups and Azure Blueprints are
-limited to Azure (though similar concepts exist in other clouds). Details of how
-to implement aspects like identity, networking and cloud-native tooling are
-focused solely on the Microsoft Cloud. Inasmuch as there is parity across these
-features and functions in other cloud providers, the information in this guide
-may be applied to any cloud.
+limited to Azure (though similar concepts exist in other clouds). Inasmuch as
+there is parity across these features and functions in other cloud providers,
+the information in this guide may be applied to any cloud.
 
 What about other approaches?
 ----------------------------
