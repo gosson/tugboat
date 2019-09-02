@@ -375,10 +375,6 @@ The
 
 The
 
-### What is a Steering Committee?
-
-The
-
 ### From Discovery to Delivery
 
 The
@@ -394,6 +390,16 @@ The
 ### Empowered teams
 
 The
+
+Governing bodies
+----------------
+
+### What is a Steering Committee?
+
+The
+
+Bridging team
+-------------
 
 What is a CCoE?
 ---------------

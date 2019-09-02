@@ -16,6 +16,20 @@ Contents:
 
 -   [Committees](#committees)
 
+    -   [Platform](#platform)
+
+    -   [Security](#security)
+
+    -   [Monitoring](#monitoring)
+
+    -   [Architecture](#architecture)
+
+    -   [Product Catalog](#product-catalog)
+
+    -   [DevOps](#devops)
+
+    -   [Data](#data)
+
 -   [Committee interaction](#committee-interaction)
 
 -   [Azure Policy](#azure-policy)
@@ -292,7 +306,7 @@ committee.](https://github.com/gosson/azure-governance-foundations/blob/master/A
 Read more about the [Product Catalog
 committee.](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/204-Product-Catalog-Committee.md)
 
-### Automation (or DevOps)
+### DevOps
 
 -   Sets automation strategy and policy
 
@@ -304,8 +318,13 @@ committee.](https://github.com/gosson/azure-governance-foundations/blob/master/A
 
 -   Defines CI/CD code repository
 
-Read more about the [Automation
-committee.](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/205-Automation-Committee.md)
+Read more about the [DevOps committee.](205-DevOps-Committee.md)
+
+### Data
+
+-   S
+
+-   Read more about the [Data committee.](206-Data-Committee.md)
 
 Note: Depending on the size, complexity and structure of the customer, there may
 not be a need for a separate Monitoring, Automation or Product Catalog
