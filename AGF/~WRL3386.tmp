@@ -10,34 +10,26 @@ Contents:
 
 -   [Membership](#membership)
 
--   [Commitment and expectations](#commitment-and-expectations)
+-   [Commitment and
+    expectations](#commitment-and-expectations-its-culture-not-cloud)
 
 -   [Charter](#charter)
 
 -   [Training and Education](#training-and-education)
 
-Customizing this approach 
---------------------------
+Customizing this approach
+-------------------------
 
-This document describes the formation of various governance bodies. This
-guidance should be thought of as a generic proposal and not a one-size-fits-all
-design. The size of your organization and how it is structured should be taken
-into account when implementing these ideas. Feel free to customize this approach
-as needed if the approach you take produces the desired results. The details
-listed here is available for those organizations looking for a place to start.
-
-It’s Culture not Cloud
-----------------------
-
-The
-
-### Critical Success Factors
-
-#### Leveraging your enablers
-
-#### Realizing Benefits
-
-#### Driving Self-reliance
+This document describes the formation of a CCoE. This guidance should be thought
+of as a generic proposal and not a one-size-fits-all design. The size of your
+organization and how it is structured should be taken into account when creating
+your CCoE. Feel free to customize this approach as needed. Instead of six
+committees you may find that breaking up the Security Committee into separate
+groups for Identity and Networking makes more sense in your organization - or
+you may find that the Automation and Product Catalog Committees should be
+merged. These are perfectly acceptable if the approach you take produces the
+desired results. The details listed here is available for those organizations
+looking for a place to start.
 
 Executive sponsorship
 ---------------------
@@ -149,8 +141,20 @@ as six people (four committees of one plus the PM and a chairperson. A CCoE
 smaller than this is discouraged as it is likely too daunting and demanding for
 those resources.
 
-Commitment and expectations 
-----------------------------
+Commitment and expectations It’s Culture not Cloud
+--------------------------------------------------
+
+The
+
+### The Opportunity to Accelerate Seems Counterintuitive
+
+### Critical Success Factors
+
+#### Leveraging your enablers
+
+#### Realizing Benefits
+
+#### Driving Self-reliance
 
 ### Rhythm of the Business
 
@@ -176,30 +180,22 @@ The
 
 The
 
-### Empowered and self-organizing teams
+### Empowered teams
 
 The
 
 Governing bodies
 ----------------
 
-### Steering Committee
+### What is a Steering Committee?
 
 The
 
 Bridging team
 -------------
 
-Cloud Center of Excellence
---------------------------
-
-One approach that successful customers have implemented is the creation of a
-Cloud Center of Excellence (CCoE). The CCoE is comprised of teams of very
-specialized personnel who focus on cloud governance and management. The idea of
-a CCoE is one of a modern IT operational model that that follows an agile
-approach to capturing business requirements to partner with the business. The
-goal of the AGF is to help customers create a functional CCoE that provided
-agility, governance and security to the business.
+What is a CCoE?
+---------------
 
 A Cloud Center of Excellence is a group dedicated to maintaining a secure,
 compliant and well-governed cloud. The CCoE is made up of representatives from

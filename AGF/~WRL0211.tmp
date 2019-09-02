@@ -4,8 +4,7 @@ Azure Governance Foundations Introduction
 Contents:
 ---------
 
--   [The Opportunity to Accelerate Seems
-    Counterintuitive](#the-opportunity-to-accelerate-seems-counterintuitive)
+-   [The need for governance](#the-need-for-governance)
 
 -   [The Cloud Adoption Framework](#the-cloud-adoption-framework)
 
@@ -24,30 +23,24 @@ Contents:
 -   [Do I need Azure Governance
     Foundations?](#do-i-need-the-azure-governance-foundations)
 
-### The Opportunity to Accelerate Seems Counterintuitive
+The need for governance
+-----------------------
 
 The characteristics of the public cloud - agility, flexibility, and
 consumption-based pricing - are of paramount importance to organizations that
-need to move quickly in the face an evolving business landscape. But many
-enterprises struggle to realize these benefits. Perhaps this is not surprising
-when historically enterprise IT, while trying to ensure that systems were
-effectively governed and secured, were often seen as slow to react and in the
-most extreme cases as draconian in their approach. Bringing such historical
-governance frameworks into a cloud first world can prove challenging at best.
+need to move quickly. Historically enterprise IT, while trying to ensure that
+systems are effectively governed and secured, were often seen as slow to react
+and in the most extreme cases as draconian in their approach.
 
-This gave rise to the notion (arguably the misconception) that creating a
-comprehensive governance system and its accompanying ‘bureaucracy’ would slow
-the business down to the point where it would negate any gains realized from
-using the cloud.
+This gave rise to the notion (in some cases a misconception) that the time and
+effort of creating a comprehensive governance system and its accompanying
+‘bureaucracy’ would slow the business down to the point where it would negate
+any gains realized from using the cloud. As such, some groups within businesses
+ended up going directly to cloud providers without involving enterprise IT. The
+practice was in fact so widespread it was given the name “Shadow IT” by the
+industry.
 
-Creating governing bodies (or realigning existing ones) in order to achieve
-speed and agility does seem counterintuitive at first blush. And, in fairness,
-the addition of more governance will not guarantee the desired results. What is
-described in these documents is a framework for changing the way enterprise IT
-does business. The change is both organization and just as critically
-*cultural*.
-
-When we look at enterprises who have successfully pivoted to the cloud, we find
+When we look at enterprises who have successfully moved to the cloud, we find
 that they typically address the topic of governance early to ensure the
 effective use of the cloud within the enterprise. They have a general approach
 of building and securing their cloud before anyone can use it. A common analogy
@@ -55,48 +48,18 @@ used among these organizations is “building the house” before letting anyone
 occupy it.
 
 To follow the analogy of a house being built (where a well-governed cloud is the
-outcome) consider what governing bodies are involved. In America, most
-communities have city planners, building departments, permitting, inspections
-and code enforcement requirements (a prospective home builder might consider
-this too much bureaucracy!). These groups may not operate efficiently and
-quickly in every community, but they have brought us safer and more standardized
-structures. When the time comes to replace a door or electrical outlet, the
-relentless drive for standardization and safety mean that replacements can be
-found at any hardware store both locally and across the country.
+outcome) we need to make use of scaffolding to secure our structures. The
+scaffold provides the general outline and boundaries for future features to be
+added. An enterprise cloud scaffold is much the same: a set of flexible controls
+and cloud capabilities that provide structure to the environment, sets
+perimeters and provides and anchors for services built on the public cloud.
+Scaffolding provides a foundation to create and attach new services keeping
+speed of delivery in mind.
 
-So too an enterprise’s requirements drive standardization and safety. A business
-unit may want to build an application to fit their needs and the application
-they build may be well-suited to the task and deliver the business value that
-team demands. The question remains: will it be easily maintained, managed and
-governed? The governance described in these documents is designed to help that
-business unit and their developers by supporting specific standards and
-practices and creating pathways to accelerate their deployments.
-
-The prospective home builder, like the application developer may disagree with
-some of the standards that are in place (particularly if no such standards
-existed previously) but they can provide the ability to execute at speed and
-scale. Knowing that wall studs are placed every 16” on load bearing walls means
-that builders need not concern themselves with these details – especially when
-industry experts and architects have agreed on that standard.
-
-These documents will give examples of how to create the governing bodies that
-will set these standards for the enterprise scaffold, which should be the
-foundation of cloud environments. It enables teams to ensure workloads meet the
-minimum governance requirements of an organization while allowing business
-groups and developers to quickly meeting their own goals.
-
-If the enterprise scaffold isn’t easy to use or flexible, risks arise. When
-teams find they can’t easily meet their needs using the tools and services
-offered by the enterprise’s IT group, they sometimes go directly to a cloud
-provider – without involving enterprise IT. The practice was so widespread it
-was given the name “Shadow IT” by the industry. Shadow IT is especially common
-in enterprises that have not fully adopted cloud (or adopted it at all). In such
-enterprises, the teams are trying to leverage the enablers that are available to
-them, realize the benefits of cloud and drive self-reliance – all commendable
-and worthy objectives. The shortcomings of Shadow IT are numerous, however. A
-misconfigured setting may expose data, legal and regulatory compliance are in
-jeopardy and, less dramatically, there are inefficiencies since other teams
-can’t benefit from the service.
+The enterprise scaffold is intended to be the foundation of cloud environments.
+It enables administrators to ensure workloads meet the minimum governance
+requirements of an organization while allowing business groups and developers to
+quickly meeting their own goals.
 
 Contrary to the opinions that led to the rise of Shadow IT, our experience shows
 that foundational governance efforts greatly speed, rather than impede, cloud
@@ -106,13 +69,21 @@ How an enterprise implements this scaffolding and governance varies but the
 purpose of the Azure Governance Foundations (AGF) is to provide a concrete
 approach to this effort.
 
+One approach that successful customers have implemented is the creation of a
+Cloud Center of Excellence (CCoE). The CCoE is comprised of teams of very
+specialized personnel who focus on cloud governance and management. The idea of
+a CCoE is one of a modern IT operational model that that follows an agile
+approach to capturing business requirements to partner with the business. The
+goal of the AGF is to help customers create a functional CCoE that provided
+agility, governance and security to the business.
+
 The Cloud Adoption Framework
 ----------------------------
 
-Cloud Adoption Framework (CAF) helps organizations with a simplified cloud
-adoption journey with Microsoft Azure. It contains detailed information to cover
-an end-to-end cloud adoption journey, starting from assessing cloud readiness,
-to defining business and technology strategy. It contains a framework to
+Cloud Operating Model (COM) helps organizations with a simplified cloud adoption
+journey with Microsoft Azure. It contains detailed information to cover an
+end-to-end cloud adoption journey, starting from assessing cloud readiness, to
+defining business and technology strategy. It contains a framework to
 strategize, plan, migrate, and optimize infrastructure for Microsoft Azure.
 
 If you haven’t yet read this document, it is strongly encouraged you do so now.
