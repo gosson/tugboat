@@ -1,5 +1,5 @@
-Azure Governance Foundations Introduction 
-==========================================
+Azure Governance Foundations Introduction
+=========================================
 
 Contents:
 ---------
@@ -34,8 +34,8 @@ and in the most extreme cases as draconian in their approach.
 
 This gave rise to the notion (in some cases a misconception) that the time and
 effort of creating a comprehensive governance system and its accompanying
-bureaucracy would slow the business down to the point where it would negate any
-gains realized from using the cloud. As such, some groups within businesses
+‘bureaucracy’ would slow the business down to the point where it would negate
+any gains realized from using the cloud. As such, some groups within businesses
 ended up going directly to cloud providers without involving enterprise IT. The
 practice was in fact so widespread it was given the name “Shadow IT” by the
 industry.
@@ -107,8 +107,8 @@ The Azure Governance Foundations provides guidance for the next phase in that
 journey. The AGF is here to answer the questions of “what happens after the
 analysis and experimentation are completed? and Where do I go from here?”
 
-Executive Summary 
-------------------
+Executive Summary
+-----------------
 
 The CCoE is an evolution of the traditional, legacy IT model operated on-premise
 and in customer own datacenters. While the traditional IT model may have served
@@ -355,7 +355,7 @@ The
 
 ### The Opportunity to Accelerate Seems Counterintuitive
 
-### Critical Success Factors 
+### Critical Success Factors
 
 #### Leveraging your enablers
 
