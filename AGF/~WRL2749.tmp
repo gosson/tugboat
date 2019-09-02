@@ -1,12 +1,15 @@
 Azure Governance Foundations Introduction 
 ==========================================
 
+I can chabet
+============
+
 Contents:
 ---------
 
 -   [The need for governance](#the-need-for-governance)
 
--   [The Cloud Adoption Framework](#the-cloud-adoption-framework)
+-   [The cloud operating model](#the-cloud-operating-model)
 
 -   [Executive Summary](#executive-summary-of-a-cloud-center-of-excellence)
 
@@ -16,9 +19,7 @@ Contents:
 
 -   [Cloud First](#cloud-first)
 
--   [It’s Culture not Cloud](#what-is-a-ccoe)
-
--   [What is a CCoE](#what-is-a-ccoe)
+-   [What is a CoE](#what-is-a-ccoe)
 
 -   [Do I need Azure Governance
     Foundations?](#do-i-need-the-azure-governance-foundations)
@@ -37,7 +38,7 @@ effort of creating a comprehensive governance system and its accompanying
 bureaucracy would slow the business down to the point where it would negate any
 gains realized from using the cloud. As such, some groups within businesses
 ended up going directly to cloud providers without involving enterprise IT. The
-practice was in fact so widespread it was given the name “Shadow IT” by the
+practice was in fact so popular it was given the name “Shadow IT” by the
 industry.
 
 When we look at enterprises who have successfully moved to the cloud, we find
@@ -77,8 +78,8 @@ approach to capturing business requirements to partner with the business. The
 goal of the AGF is to help customers create a functional CCoE that provided
 agility, governance and security to the business.
 
-The Cloud Adoption Framework
-----------------------------
+The cloud operating model
+=========================
 
 Cloud Operating Model (COM) helps organizations with a simplified cloud adoption
 journey with Microsoft Azure. It contains detailed information to cover an
@@ -107,8 +108,8 @@ The Azure Governance Foundations provides guidance for the next phase in that
 journey. The AGF is here to answer the questions of “what happens after the
 analysis and experimentation are completed? and Where do I go from here?”
 
-Executive Summary 
-------------------
+Executive Summary of a Cloud Center of Excellence
+-------------------------------------------------
 
 The CCoE is an evolution of the traditional, legacy IT model operated on-premise
 and in customer own datacenters. While the traditional IT model may have served
@@ -348,53 +349,6 @@ step on the cloud first journey. Simply put, the AGF and the use of a CCoE will
 help any customer organization “build the house” in a way that does everything
 possible to future-proof them for changes they may want to make at a later date.
 
-It’s Culture not Cloud
-----------------------
-
-The
-
-### The Opportunity to Accelerate Seems Counterintuitive
-
-### Critical Success Factors 
-
-#### Leveraging your enablers
-
-#### Realizing Benefits
-
-#### Driving Self-reliance
-
-### Rhythm of the Business
-
-The
-
-### Program Management
-
-The
-
-### Agile, SaFE or Kanban?
-
-The
-
-### What is a Steering Committee?
-
-The
-
-### From Discovery to Delivery
-
-The
-
-### Escalations
-
-The
-
-### Creating a Culture of Accountability
-
-The
-
-### Empowered teams
-
-The
-
 What is a CCoE?
 ---------------
 
@@ -402,8 +356,8 @@ A Cloud Center of Excellence is a group dedicated to maintaining a secure,
 compliant and well-governed cloud. The CCoE is made up of representatives from
 the areas of the business that are affected by the cloud. Each of the members of
 the CCoE are experts in their respective areas both in the on-premise world and
-in the cloud. The CCoE is broken up into committees (or team of teams) which
-focus on specific areas of the cloud. Typically, these are:
+in the cloud. The CCoE is broken up into committees (or teams) which focus on
+specific areas of the cloud. Typically, these are:
 
 -   Platform governance
 
@@ -416,12 +370,6 @@ focus on specific areas of the cloud. Typically, these are:
 -   Automation
 
 -   Product Catalog
-
--   DevOps
-
--   Data
-
--   Program Management
 
 Each of these committees are focused on their area and they create the policies
 which will ultimately be enforced by the cloud. While the committees control
@@ -469,8 +417,8 @@ guide.
 Do I need the Azure Governance Foundations?
 -------------------------------------------
 
-Setting up and operationalizing a CCoE with deep focus on foundational aspects
-of platform enablement is not a trivial matter. The goal of the AGF is to help
+Setting up and operationalizing a CCoE with deep focus foundational aspects of
+platform enablement is not a trivial matter. The goal of the AGF is to help
 customers create a secure and well-governed Azure environment, ready to accept
 workloads The AGF can be undertaken by almost any customer, from those who are
 just beginning their cloud journey to ones who are already deeply invested in
