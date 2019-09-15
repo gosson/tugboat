@@ -322,7 +322,7 @@ Read more about the [DevOps committee.](205-DevOps-Committee.md)
 
 ### Data
 
--   S
+-   S.
 
 -   Read more about the [Data committee.](206-Data-Committee.md)
 
