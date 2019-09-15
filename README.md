@@ -1,12 +1,12 @@
 Azure Governance Foundations
 ============================
 
-The Azure Governance Foundation (AGF) is designed to provide clear guidance on
-how a company can create a well-managed Azure environment by creating the
-business structures that enable a cloud-first approach (like a Technology
-Steering Committee and a Cloud Center of Excellence (CCoE) team). The purpose of
-this guidance is to share the approach and insights of customers who are
-successfully using similar governing bodies to manage their Azure environments.
+Azure Governance Foundation (AGF) is designed to provide clear guidance on how a
+company can create a well-managed Azure environment by creating the business
+structures that enable a cloud-first approach (like a Technology Steering
+Committee and a Cloud Center of Excellence (CCoE) team). The purpose of this
+guidance is to share the approach and insights of customers who are successfully
+using similar governing bodies to manage their Azure environments.
 
 The goal of the AGF is to help customers:
 
