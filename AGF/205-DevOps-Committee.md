@@ -1,5 +1,9 @@
-Automation Committee
-====================
+Dev-Ops Committee
+=================
+
+### [./media/image1.png](./media/image1.png)
+
+~   See the source image
 
 ### This document is still under development.
 
