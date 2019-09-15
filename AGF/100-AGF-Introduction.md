@@ -259,7 +259,7 @@ While this approach returns control back to the IT department, it also greatly
 reduces the value of the cloud to bring speed and agility to the organization.
 The approach works but at the cost of reducing the true potential of the cloud.
 
-A new approach to an old problem
+A tested approach to an old problem
 --------------------------------
 
 As described above, the perception of IT departments as slow, cumbersome and
