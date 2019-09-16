@@ -28,7 +28,7 @@ Contents:
 
 The characteristics of the public cloud - agility, flexibility, and
 consumption-based pricing - are of paramount importance to organizations that
-need to move quickly in the face an evolving business landscape. But many
+need to move quickly in the face of an evolving business landscape. But many
 enterprises struggle to realize these benefits. Perhaps this is not surprising
 when historically enterprise IT, while trying to ensure that systems were
 effectively governed and secured, were often seen as slow to react and in the
@@ -44,7 +44,7 @@ Creating governing bodies (or realigning existing ones) in order to achieve
 speed and agility does seem counterintuitive at first blush. And, in fairness,
 the addition of governance will not guarantee the desired results. What is
 described in these documents is a framework for changing the way enterprise IT
-does business. The change is both organization and just as critically
+does business. The change is both organizational and just as critically
 *cultural*.
 
 When we look at enterprises who have successfully pivoted to the cloud, we find
