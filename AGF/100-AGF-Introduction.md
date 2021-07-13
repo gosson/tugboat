@@ -221,7 +221,7 @@ But even with the improvements brought about by virtualization and software
 defined resources (compute, network most notably) the process to request a new
 virtual machine did not improve commensurate with the technology. Legacy
 systems, intrenched processes and a lack of automation in IT service management
-continued to plaque many companies.
+continued to plague many companies.
 
 Enter the world of cloud. The earliest days of the cloud were marked by a
 frustration with the speed and service offered by IT departments (a problem that
