@@ -48,7 +48,7 @@ strategy accounts for reality.
 Similar references are easy to find in Leading Change by John Kotter, highlighting 
 core principles in “Establishing a Sense of Urgency.” Most especially note 
 the reference of change agents ratio to organization size (10:100 for significant change;
-15K+:100K to product significant change). Manyreferences have highlighted what most 
+15K+:100K to product significant change). Many references have highlighted what most 
 should already intuitively know:
 -starting the change is easy
 -growing the change is complex and often wrought with unforeseen difficulties
